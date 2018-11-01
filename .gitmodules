@@ -1,0 +1,3 @@
+[submodule "custom/themes/honukai-iterm-zsh"]
+	path = custom/themes/honukai-iterm-zsh
+	url = git@github.com:everdimension/honukai-iterm-zsh.git
